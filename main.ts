@@ -1,11 +1,11 @@
 
 let globalTimerOffset = 5
-let myADDRESS = ADDRESS.A20
+let myADDRESS = ADDRESS.A27
 let inVertNumbers = false
-let myName = "Dad"
+let myName = "Pat"
 let rabbitMode = false
 let rabbitNames: string[] = ["Ali", "Eir", "Ina", "Una", "Per", "Alf", "Ada", "Ela", "Eli", "Mor", "Oda", "Ask", "Kai", "Ida", "Kim", "Eva"]
-let from8AndUp = true
+let from8AndUp = false
 let list = 0
 let myOnTime = 0
 let portBOnTimes: number[] = []
